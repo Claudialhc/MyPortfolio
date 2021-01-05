@@ -23,10 +23,6 @@ The three projects I decided to showcase are:
 
 The reason I decided to include my first portfolio in here because I wanted to display the advancement and imporovement I have made since. I think it is would be a great comparison between the new version and the old version. 
 
-Here is an image of what the working "Workday Scheduler" page looks like: 
-
-![screenshot2](./assets/scheduler-example.png)
-
 On the "Contact", you will find the contact form. This form can be used by potential and existing clients if they want to get in contact with me. At the moment the form is not linked to an email, but it will become enabled on the final porfolio.
  
 Overall, you will find this template was made using bootstrap, HTML elements and CSS style. 
