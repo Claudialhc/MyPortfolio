@@ -1,5 +1,5 @@
 # MyPortfolio
-This is my professional portfolio website. This is the first version of my portfolio, once I have more/actual experience I intend on adding those projects to this portfolio (in the mean time, please enjoy the images I have curated for you).
+This is my professional portfolio website. This is an updated version of my first portfolio version. I have updated 
 
 The whole website is composed of three main sub-sites, these sub-sites are: 
       <ul>
