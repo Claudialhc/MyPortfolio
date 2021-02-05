@@ -1,5 +1,5 @@
 # MyPortfolio
-This is my professional portfolio website. This is an updated version of my first portfolio version. In this updated version you will find links to my LinkedIn, GitHub and Resume. As well as links to 3 of the projects I have worked on. 
+This is my professional portfolio website. This is an updated version of my first portfolio version. In this updated version you will find links to my LinkedIn, GitHub and Resume. As well as links to 6 of the projects I have worked on. 
 
 You can access each site by clicking on the desired page you'd like to visit, on the nav bar on the top of each site. By clicking the word you are trigerring the link the word is linked to, respectively, to take you to the desired page. If you find yourslf on either the "Portfolio", "Resume", any project page or "Contact" pages, and you want to go back to the "About Me" page you can do so by clicking either the "About Me" or "Claudia Hernandez" links located on the nav bar. 
 
@@ -11,19 +11,22 @@ On the "Portfolio" page you will find three of the projects I have worked one an
 
 Here is an image of what the working portfolio looks like:
 
-![sceenshot](./assests/portfolio-example.png)
+![sceenshot](./assests/newimgport.png)
 
-The three projects I decided to showcase are: 
+The six projects I decided to showcase are: 
 
 <ul>
   <li>MOVIETASTE</li>
   <li>Work Scheduler</li>
   <li>Original Portfolio</li>
+  <li>Eat Da Burger</li>
+  <li>Meanest Game in the World!</li>
+  <li>Employee Tracker</li>
 </ul>
 
 The reason I decided to include my first portfolio in here because I wanted to display the advancement and imporovement I have made since. I think it is would be a great comparison between the new version and the old version. 
 
-On the "Contact", you will find the contact form. This form can be used by potential and existing clients if they want to get in contact with me. At the moment the form is not linked to an email, but it will become enabled on the final porfolio.
+On the "Contact", you will find the contact form. This form can be used by potential and existing clients if they want to get in contact with me. 
  
 Overall, you will find this template was made using bootstrap, HTML elements and CSS style. 
 
